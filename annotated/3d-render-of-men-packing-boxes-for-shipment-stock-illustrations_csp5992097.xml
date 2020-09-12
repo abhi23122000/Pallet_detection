@@ -1,0 +1,50 @@
+<annotation>
+	<folder>10_826 Pallet Photos and Premium High Res Pictures_</folder>
+	<filename>3d-render-of-men-packing-boxes-for-shipment-stock-illustrations_csp5992097.jpg</filename>
+	<path>C:\Users\aksha.LAPTOP-KKEAULMJ\OneDrive\Documents\Python\Ineuron\pallet\10_826 Pallet Photos and Premium High Res Pictures_\3d-render-of-men-packing-boxes-for-shipment-stock-illustrations_csp5992097.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>181</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pallet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>65</ymin>
+			<xmax>146</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>69</ymin>
+			<xmax>150</xmax>
+			<ymax>143</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>60</ymin>
+			<xmax>298</xmax>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+</annotation>

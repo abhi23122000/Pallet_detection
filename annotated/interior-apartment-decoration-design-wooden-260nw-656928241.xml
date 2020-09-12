@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10_826 Pallet Photos and Premium High Res Pictures_</folder>
+	<filename>interior-apartment-decoration-design-wooden-260nw-656928241.jpg</filename>
+	<path>C:\Users\aksha.LAPTOP-KKEAULMJ\OneDrive\Documents\Python\Ineuron\pallet\10_826 Pallet Photos and Premium High Res Pictures_\interior-apartment-decoration-design-wooden-260nw-656928241.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pallet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>162</ymin>
+			<xmax>219</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>

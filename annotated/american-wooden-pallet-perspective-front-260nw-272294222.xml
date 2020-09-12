@@ -1,0 +1,50 @@
+<annotation>
+	<folder>10_826 Pallet Photos and Premium High Res Pictures_</folder>
+	<filename>american-wooden-pallet-perspective-front-260nw-272294222.jpg</filename>
+	<path>C:\Users\aksha.LAPTOP-KKEAULMJ\OneDrive\Documents\Python\Ineuron\pallet\10_826 Pallet Photos and Premium High Res Pictures_\american-wooden-pallet-perspective-front-260nw-272294222.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>247</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pallet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>145</ymin>
+			<xmax>236</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pallet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>48</ymin>
+			<xmax>119</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pallet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>33</ymin>
+			<xmax>225</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>10_826 Pallet Photos and Premium High Res Pictures_</folder>
+	<filename>american-standard-pallet-views-american-wooden-pallet-in-perspective-front-and-side-view-with-clip-a.jpg</filename>
+	<path>C:\Users\aksha.LAPTOP-KKEAULMJ\OneDrive\Documents\Python\Ineuron\pallet\10_826 Pallet Photos and Premium High Res Pictures_\american-standard-pallet-views-american-wooden-pallet-in-perspective-front-and-side-view-with-clip-a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>172</width>
+		<height>179</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pallet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>102</ymin>
+			<xmax>159</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pallet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>32</ymin>
+			<xmax>81</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pallet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>21</ymin>
+			<xmax>148</xmax>
+			<ymax>91</ymax>
+		</bndbox>
+	</object>
+</annotation>

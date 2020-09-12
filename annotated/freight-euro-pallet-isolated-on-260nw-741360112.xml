@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10_826 Pallet Photos and Premium High Res Pictures_</folder>
+	<filename>freight-euro-pallet-isolated-on-260nw-741360112.jpg</filename>
+	<path>C:\Users\aksha.LAPTOP-KKEAULMJ\OneDrive\Documents\Python\Ineuron\pallet\10_826 Pallet Photos and Premium High Res Pictures_\freight-euro-pallet-isolated-on-260nw-741360112.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>unit_load</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>148</ymin>
+			<xmax>315</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>
